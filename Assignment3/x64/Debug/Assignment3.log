@@ -1,0 +1,4 @@
+﻿  Assignment3.cpp
+D:\HETUL\LaSalle\Assignment\algorithms and programming\Assignment_03\Assignment3C++\Assignment3\Assignment3\Assignment3.cpp(214,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\HETUL\LaSalle\Assignment\algorithms and programming\Assignment_03\Assignment3C++\Assignment3\Assignment3\Assignment3.cpp(268,14): warning C4101: 'x': unreferenced local variable
+  Assignment3.vcxproj -> D:\HETUL\LaSalle\Assignment\algorithms and programming\Assignment_03\Assignment3C++\Assignment3\x64\Debug\Assignment3.exe
